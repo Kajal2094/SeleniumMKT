@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a219ffbc-f704-4254-8504-13649f5e6cce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Interviews/ITCInterview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Interviews/StarHealthInterview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/JavaPractice/BalancedBracket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/JavaPractice/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/JavaPractice/DuplicateCharacterHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/JavaPractice/HashMapForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/JavaPractice/JavaProgramsAsked.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/JavaPractice/OccurenceOfCharacterP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Preparation/BalancedBracket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Preparation/OccurenceOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SeleniumPracticeMKT/MKTSelenium04cJune.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SeleniumPracticeMKT/MKTSelenium06June.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SeleniumPracticeMKT/MKTSelenium17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SeleniumPracticeMKT/MKTSelenium30May.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SeleniumPracticeMKT/MKTSelenium_04bJune.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SeleniumPracticeMKT/SeleniumMKT_4June.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/JavaPractice/EyInterview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/JavaPractice/EyInterview.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Preparation/OccurenceOfCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Preparation/OccurenceOfCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Preparation/StringManipulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Preparation/StringManipulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SeleniumPracticeMKT/SeleniumMKT1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/SeleniumPracticeMKT/SeleniumMKT1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SeleniumPracticeMKT/SeleniumMKT4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/SeleniumPracticeMKT/SeleniumMKT4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SeleniumPracticeMKT/SeleniumMKT5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/SeleniumPracticeMKT/SeleniumMKT5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SeleniumPracticeMKT/SeleniumMKT6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/SeleniumPracticeMKT/SeleniumMKT6.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2guxVwjJbqEREiQiw0imCSTcW91" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Abc.executor": "Run",
+    "Application.Anagram.executor": "Run",
+    "Application.BalancedBracket.executor": "Run",
+    "Application.BubbleSort.executor": "Run",
+    "Application.DropDownFacebook.executor": "Run",
+    "Application.DropDownGrotech.executor": "Run",
+    "Application.DuplicateCharacterHashMap.executor": "Run",
+    "Application.HashMapForEach.executor": "Run",
+    "Application.Hashmap.executor": "Run",
+    "Application.ITCInterview.executor": "Run",
+    "Application.JungleeGamesInterview.executor": "Run",
+    "Application.MKTSelenium17.executor": "Run",
+    "Application.MKTSelenium_04bJune.executor": "Run",
+    "Application.OccurenceOfCharacter.executor": "Run",
+    "Application.OccurenceOfCharacterP.executor": "Run",
+    "Application.OccurenceOfString.executor": "Run",
+    "Application.OccurenceofChar.executor": "Run",
+    "Application.Palimdrome.executor": "Run",
+    "Application.ReverseString.executor": "Run",
+    "Application.ReversedStringScanner.executor": "Run",
+    "Application.SeleniumMKT1.executor": "Run",
+    "Application.SeleniumMKT11.executor": "Run",
+    "Application.SeleniumMKT12_dropdown.executor": "Run",
+    "Application.SeleniumMKT16.executor": "Run",
+    "Application.SeleniumMKT2.executor": "Run",
+    "Application.SeleniumMKT4.executor": "Run",
+    "Application.SeleniumMKT5.executor": "Run",
+    "Application.SeleniumMKT6.executor": "Run",
+    "Application.SeleniumMKT7.executor": "Run",
+    "Application.SeleniumMKT9.executor": "Run",
+    "Application.SeleniumMKT_4June.executor": "Run",
+    "Application.StarHealthInterview.executor": "Run",
+    "Application.StringManipulation.executor": "Run",
+    "Application.Vowel.executor": "Run",
+    "Application.org.example.Preparation.BalancedBracket.executor": "Run",
+    "Application.org.example.Preparation.OccurenceOfCharacter.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/kajalsingh/IdeaProjects/SeleniumMKT",
+    "onboarding.tips.debug.path": "/Users/kajalsingh/IdeaProjects/SeleniumMKT/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.ITCInterview">
+    <configuration name="ITCInterview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Interviews.ITCInterview" />
+      <module name="SeleniumMKT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Interviews.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeleniumMKT1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.SeleniumPracticeMKT.SeleniumMKT1" />
+      <module name="SeleniumMKT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.SeleniumPracticeMKT.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeleniumMKT6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.SeleniumPracticeMKT.SeleniumMKT6" />
+      <module name="SeleniumMKT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.SeleniumPracticeMKT.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeleniumMKT7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.SeleniumPracticeMKT.SeleniumMKT7" />
+      <module name="SeleniumMKT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.SeleniumPracticeMKT.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeleniumMKT9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.SeleniumPracticeMKT.SeleniumMKT9" />
+      <module name="SeleniumMKT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.SeleniumPracticeMKT.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ITCInterview" />
+        <item itemvalue="Application.SeleniumMKT9" />
+        <item itemvalue="Application.SeleniumMKT7" />
+        <item itemvalue="Application.SeleniumMKT6" />
+        <item itemvalue="Application.SeleniumMKT1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a219ffbc-f704-4254-8504-13649f5e6cce" name="Changes" comment="" />
+      <created>1716561294215</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716561294215</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
