@@ -11,6 +11,8 @@ Program to Check for balanced brackets in a given string - "(]h,te.([)<)]ysf%><g
 Program to find average of numeric values in a given string - ABGAIL75HUMP, 3INK9OPO, TBY4MU0NE&7
 program to fetch data from the excel sheet corresponding to the desired id value.
 write a complex xpath using ancestor and sibling approach.
+//h1/ancestor::div[@class='container']//div[@class='section' and @id='section2']/p[@class='description']
+//div[@class='section' and @id='section2']/p[@class='description']/following-sibling::p[@class='info']
 
 
 

@@ -17,6 +17,7 @@ public class SeleniumMKT6 {
                 WebElement search = driver.findElement(By.xpath("//textarea[@aria-label ='Search']"));
                 search.sendKeys("india");
                 search.sendKeys(Keys.ENTER);
+                 // search.click();
 
             }
     }

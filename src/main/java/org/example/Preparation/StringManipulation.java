@@ -2,7 +2,6 @@ package org.example.Preparation;
 
 import java.util.Arrays;
 
-import static com.sun.tools.javac.main.Option.G;
 
 // find position, concatenation , subsequence and other method
 public class  StringManipulation{

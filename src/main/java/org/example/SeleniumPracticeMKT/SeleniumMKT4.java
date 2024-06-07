@@ -12,8 +12,10 @@ public class SeleniumMKT4 {
     public static void main(String[] args) {
         ChromeDriver driver = new ChromeDriver();
         driver.get("https://www.google.com/");
-        WebElement search = driver.findElement(By.xpath("//textarea[@aria-label ='Search']"));
-        search.sendKeys("india");
+        //WebElement search = driver.findElement(By.xpath("//textarea[@aria-label ='Search']"));
+       // search.sendKeys("india");
+        driver.findElement(By.cssSelector("#APjFqb")).sendKeys("India");
+
 
     }
 }

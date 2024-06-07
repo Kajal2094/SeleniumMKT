@@ -14,8 +14,10 @@ public class SeleniumMKT5 {
     public static void main(String[] args) {
         ChromeDriver driver = new ChromeDriver();
         driver.get("https://www.flipkart.com/");
-        WebElement search = driver.findElement(By.xpath("//input[@title=\"Search for Products, Brands and More\"]"));
-        search.sendKeys("Shoe");
-        search.sendKeys(Keys.ENTER);
+      //  WebElement search = driver.findElement(By.xpath("//input[@title=\"Search for Products, Brands and More\"]"));
+       // search.sendKeys("Shoe");
+      //  search.sendKeys(Keys.ENTER);
+        WebElement search = driver.findElement(By.cssSelector(".Pke_EE"));
+        search.sendKeys("Shoes");
     }
 }
